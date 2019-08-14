@@ -1,3 +1,5 @@
 # hello-world
-my first repository
-Now I'm learning github. It's fantastic.
+My first repository.
+Now I'm learning github.
+It's fantastic.
+I hope it will work.
